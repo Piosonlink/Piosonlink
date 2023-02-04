@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Pothole Dodgers**
 
-- 🌱 I’m currently learning **Android, Python & Kotlin**
+- 🌱 I’m currently learning **Unreal Engine, Python & C++**
 
 - 📫 How to reach me **44erasstudios@gmail.com**
 
