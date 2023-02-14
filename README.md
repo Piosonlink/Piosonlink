@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dwayne</h1>
+<h1 align="center">Hi 👋, I'm Dwayne Erasmus</h1>
 <h3 align="center">A passionate developer from South Africa</h3>
 
 - 🔭 I’m currently working on **Pothole Dodgers & Supernatural: The Hunt**
