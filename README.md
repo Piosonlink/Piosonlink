@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Unreal Engine, Python & C++**
 
-- 📫 How to reach me **44erasstudios@gmail.com**
+- 📫 How to reach me **dwayne@44eras.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
